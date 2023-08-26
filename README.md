@@ -1,6 +1,6 @@
 <h1>Cyclistic Bike-Share Analysis</h1>
 
-<img src="link-to-logo-image.png" alt="Cyclistic Logo"> 
+<img src="logo.png" alt="Cyclistic Logo"> 
 
 <h2>Introduction</h2>
 
