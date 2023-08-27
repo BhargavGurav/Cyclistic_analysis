@@ -23,7 +23,7 @@
 
 <ol>
   <li><strong>Clone the Repository</strong>: Clone this repository to your local machine using the following command:<br>
-    <code>git clone https://github.com/your-username/your-repo-name.git</code></li>
+    <code>git clone https://github.com/BhargavGurav/Cyclistic_analysis.git</code></li>
   <li><strong>Dependencies</strong>: Make sure you have the required dependencies installed. You can find the list of dependencies in the <code>requirements.txt</code> file.</li>
   <li><strong>Data</strong>: Obtain the cleaned and prepared dataset used for analysis. You can find this dataset in the <code>data</code> directory.</li>
   <li><strong>Jupyter Notebooks</strong>: The analysis was performed in Jupyter notebooks. You can explore our code and visualizations in the <code>notebooks</code> directory.</li>
