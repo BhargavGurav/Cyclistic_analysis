@@ -48,14 +48,7 @@
   <li><strong>Promotional Campaigns</strong>: Design targeted promotional campaigns that address the specific needs and concerns of casual riders.</li>
 </ol>
 
-<h2>Contact Information</h2>
 
-<p>If you have any questions, suggestions, or feedback, feel free to reach out to us:</p>
-
-<ul>
-  <li>Your Name: <a href="mailto:your.email@example.com">Your Email</a></li>
-  <li>Cyclistic Marketing Team: <a href="mailto:marketing@cyclistic.com">marketing@cyclistic.com</a></li>
-</ul>
 
 <h2>License</h2>
 
